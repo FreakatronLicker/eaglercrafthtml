@@ -1,0 +1,15 @@
+# Site Info
+title: Games
+description: A simple site built with Jekyll and GitHub Pages.
+
+# Theme Selection
+theme: jekyll-theme-minimal
+
+# URL Settings
+url: "https://FreakatronLicker.github.io"
+baseurl: ""
+
+# Plugins (Required for SEO and Feeds)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
